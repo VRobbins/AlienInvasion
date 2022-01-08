@@ -1,0 +1,54 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>sound/intro.mp3</file>
+        <file>sound/heart_sound.mp3</file>
+        <file>img/eagle/1.png</file>
+        <file>img/eagle/2.png</file>
+        <file>img/eagle/3.png</file>
+        <file>img/eagle/4.png</file>
+        <file>img/eagle/5.png</file>
+        <file>img/eagle/6.png</file>
+        <file>img/eagle/7.png</file>
+        <file>img/eagle/8.png</file>
+        <file>img/eagle/9.png</file>
+        <file>sound/iceshatter.mp3</file>
+        <file>sound/Water.mp3</file>
+        <file>sound/Earth.mp3</file>
+        <file>sound/Boss2.mp3</file>
+        <file>sound/End.mp3</file>
+        <file>img/Background1.jpg</file>
+        <file>img/Background2.jpg</file>
+        <file>img/Background3.jpg</file>
+        <file>img/Background4.jpg</file>
+        <file>img/Background5.jpg</file>
+        <file>img/Background6.jpg</file>
+        <file>img/Background7.jpg</file>
+        <file>img/bluecave.jpg</file>
+        <file>img/bluePlanet.png</file>
+        <file>img/bomb.png</file>
+        <file>img/boss_health_frame_edited.png</file>
+        <file>img/checkmark.png</file>
+        <file>img/fireball.png</file>
+        <file>img/fireboss.png</file>
+        <file>img/firelevel.jpg</file>
+        <file>img/ForestNew.jpg</file>
+        <file>img/game_over.jpg</file>
+        <file>img/greenPlanet.png</file>
+        <file>img/greyHeart.png</file>
+        <file>img/heart.png</file>
+        <file>img/icicle.png</file>
+        <file>img/missile.png</file>
+        <file>img/redPlanet.png</file>
+        <file>img/restartButton.png</file>
+        <file>img/Shell.png</file>
+        <file>img/sound_off.png</file>
+        <file>img/sound_on.png</file>
+        <file>img/Spaceship_gold.png</file>
+        <file>img/Spaceship_new.png</file>
+        <file>img/vine.png</file>
+        <file>img/Win_Image.jpg</file>
+        <file>img/ARM.png</file>
+        <file>img/Alien_figure.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
